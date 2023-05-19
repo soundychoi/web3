@@ -30,7 +30,7 @@
 
 
 ## 5. 실행 화면
-
+<details>
 <summary><b>실행 화면 펼치기</b></summary></br>
   <div markdown="1">
   ### 5.1 메인화면
@@ -46,8 +46,8 @@
 
   ### 5.4 일정 삭제 화면
   ![image](https://github.com/soundychoi/web3/assets/112635413/c340b176-22c5-4ab2-bdba-f629bf76c49d)
-    <div>
-
+    </div>
+</details>
   
 
 
