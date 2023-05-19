@@ -40,8 +40,6 @@
   ### 5.2 일정 추가 화면
   ![image](https://github.com/soundychoi/web3/assets/112635413/010b3842-4571-4c8f-b213-d1a713b1c46e)
 
-  ![image](https://github.com/soundychoi/web3/assets/112635413/e36a8773-c505-47a0-a442-c140b78ebafa)
-
   ### 5.3 일정 수정 화면
   ![image](https://github.com/soundychoi/web3/assets/112635413/21ac6cbe-8441-4a13-8bb7-757f6282603d)
 
