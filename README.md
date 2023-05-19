@@ -50,7 +50,7 @@
   
 
 
-## 6. 기능 구현 시연 동영상
+## 6. 기능 시연 동영상
 >https://youtu.be/WhC3NBlbtvI
 
 
